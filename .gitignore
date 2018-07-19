@@ -1,5 +1,4 @@
-# Object file
-*.o
+# Config function
 
-# Ada Library Information
-*.ali
+config_function.m
+
