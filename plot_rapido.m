@@ -3,7 +3,7 @@ warning off
 %% Obrir senyals
 close all
 clear all
-[dir_datos, dir_result] = config_function();
+[dir_datos, dir_result] = config_function_example();
 
 subject='V01.rec'; %.rec: dispositivo: deltamed , .edf: dispositivo:profusion
 dispositivo='deltamed'; %deltamed
